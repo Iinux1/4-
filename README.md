@@ -103,3 +103,4 @@ brew cask install electronic-wechat
 #### License [MIT](LICENSE.md)
 
 *Electronic WeChat* is released by this open source project. While Web WeChat is a major component  in the app, it should be noted that this is a community release and not an official WeChat release.
+株式会社全禁房 版权 权蕊蕊高级房管 邮箱1040471235@qq.com 株式会社全禁房版权 冯明春高级房管 邮箱1930853354@qq.com 我们不停的鼓励 打造更完美的项目 完全遵循房管开发标准 颁发最完美的标准许可证 请大家来讨论此项目  维护和资助
